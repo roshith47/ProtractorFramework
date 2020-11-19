@@ -10,7 +10,8 @@ this.y=y;
 Display(){
     console.log(this.x);
     console.log(this.x);
-    console.log("sum= "+this.x+this.y)
+    console.log("Hello");
+    console.log("sum= "+this.x+this.y);
 }
 
 }
